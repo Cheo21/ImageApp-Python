@@ -1,0 +1,37 @@
+[
+    {
+        "Nick": "Perfil1",
+        "Nombre": "uno",
+        "Edad": "15",
+        "Genero": "Femenino",
+        "Image": "UnlpImage/Image/avatars/avatar4.png"
+    },
+    {
+        "Nick": "Perfil2",
+        "Nombre": "dos",
+        "Edad": "20",
+        "Genero": "Nuevo genero",
+        "Image": "UnlpImage/Image/avatars/ava.jpg"
+    },
+    {
+        "Nick": "Perfil3",
+        "Nombre": "tres",
+        "Edad": "30",
+        "Genero": "Masculino",
+        "Image": "UnlpImage/Image/avatars/avatar7.png"
+    },
+    {
+        "Nick": "Perfil4",
+        "Nombre": "cuatro",
+        "Edad": "40",
+        "Genero": "Avion",
+        "Image": "UnlpImage/Image/avatars/avatar.png"
+    },
+    {
+        "Nick": "Perfil5",
+        "Nombre": "perfil",
+        "Edad": "60",
+        "Genero": "Femenino",
+        "Image": "UnlpImage/Image/avatars/avatar6.png"
+    }
+]

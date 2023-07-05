@@ -1,0 +1,98 @@
+[
+    {
+        "image": "This-Is-Where-Id-Put-My-Trophy-If-I-Had-One.jpg",
+        "name": "Aqui pondria mi trofeo",
+        "text_boxes": [
+            {
+                "top_left_x": 43,
+                "top_left_y": 9,
+                "bottom_right_x": 222,
+                "bottom_right_y": 51
+            },
+            {
+                "top_left_x": 62,
+                "top_left_y": 226,
+                "bottom_right_x": 219,
+                "bottom_right_y": 256
+            }
+        ]
+    },
+    {
+        "image": "Running-Away-Balloon.jpg",
+        "name": "Corriendo globo",
+        "text_boxes": [
+            {
+                "top_left_x": 506,
+                "top_left_y": 93,
+                "bottom_right_x": 747,
+                "bottom_right_y": 242
+            },
+            {
+                "top_left_x": 18,
+                "top_left_y": 42,
+                "bottom_right_x": 204,
+                "bottom_right_y": 116
+            },
+            {
+                "top_left_x": 587,
+                "top_left_y": 626,
+                "bottom_right_x": 744,
+                "bottom_right_y": 680
+            },
+            {
+                "top_left_x": 11,
+                "top_left_y": 757,
+                "bottom_right_x": 174,
+                "bottom_right_y": 865
+            },
+            {
+                "top_left_x": 262,
+                "top_left_y": 605,
+                "bottom_right_x": 370,
+                "bottom_right_y": 633
+            }
+        ]
+    },
+    {
+        "image": "Futurama-Fry.jpg",
+        "name": "Futurama Fry",
+        "text_boxes": [
+            {
+                "top_left_x": 115,
+                "top_left_y": 8,
+                "bottom_right_x": 418,
+                "bottom_right_y": 66
+            },
+            {
+                "top_left_x": 97,
+                "top_left_y": 326,
+                "bottom_right_x": 370,
+                "bottom_right_y": 390
+            }
+        ]
+    },
+    {
+        "image": "Trump-Bill-Signing.jpg",
+        "name": "Trump firmando",
+        "text_boxes": [
+            {
+                "top_left_x": 733,
+                "top_left_y": 609,
+                "bottom_right_x": 1175,
+                "bottom_right_y": 1104
+            },
+            {
+                "top_left_x": 1293,
+                "top_left_y": 609,
+                "bottom_right_x": 1729,
+                "bottom_right_y": 1004
+            },
+            {
+                "top_left_x": 298,
+                "top_left_y": 195,
+                "bottom_right_x": 687,
+                "bottom_right_y": 295
+            }
+        ]
+    }
+]

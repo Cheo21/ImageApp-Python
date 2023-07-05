@@ -1,0 +1,24 @@
+time,Nick,ope,valores,text
+1686434672,"usuario1",change_config,123,"Creando nuevo objeto"
+1684677200,"usuario2",new_profile,456,"Actualizando datos"
+1684677180,"usuario3",new_collage,789,"Eliminando registro"
+1684677140,"usuario1",edit_image,234,"Creando otro objeto"
+1686077140,"usuario2",new_meme,567,"Actualizando información"
+1984677140,"usuario3",new_collage,890,"Eliminando entrada"
+1650677140,"usuario1",new_image,345,"Creando objeto adicional"
+2084677140,"usuario2",new_profile,678,"Actualizando detalles"
+1984677140,"usuario3",new_profile,901,"Eliminando dato"
+1684677032,"gali",modificar_perfil,,
+1684677140,"gali",Modification_of_previously_classified_image,,
+1684677140,"usuario2",new_classified_image,,
+1684677421,"pipi",new_meme,"tres_dragones.jpg","Linux;Mac;Windows"
+1686524186,"gali",new_collage,"montañas.jpg;paisaje.jpg;río.jpg","Vacaciones"
+1684677421,"pipi",new_meme,"tres_dragones.jpg","Linux;Mac;Windows"
+1684677421,"pipi",new_meme,"tres_dragones.jpg","Linux;Mac;Windows"
+1684677180,"usuario3",new_collage,789,"Eliminando registro"
+1684677180,"usuario3",new_collage,""nueva","Eliminando registro"
+1684677180,"usuario3",new_collage,789,"Eliminando registro"
+1684677140,"gali",new_classified_image,,
+1684677140,"gali",new_classified_image,,
+1684677140,"usuario2",Modification_of_previously_classified_image,,
+1684677140,"usuario3",Modification_of_previously_classified_image,,
